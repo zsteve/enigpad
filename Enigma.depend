@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1367571022 source:k:\code\c++\enigma\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"resource.h"
+
+1367551358 k:\code\c++\enigma\resource.h
+
+1367551358 source:k:\code\c++\enigma\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1367582682 source:h:\code\c++\enigma\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1367551358 h:\code\c++\enigma\resource.h
+
+1367582782 source:h:\code\c++\enigma\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"resource.h"
+
